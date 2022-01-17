@@ -1,27 +1,28 @@
 .mission-2022{
     display: flex;
-    border: 2px solid black;
-    margin-bottom: 50px;  
-    width: 95%;
+
+    height: 350px;
+    width: 80%;
     margin: auto;
     margin-top: 50px;
+    column-gap: 20px;
 }
 
 .half-width{
     width: 50%;
     padding-left: 15px;
-    border: 2px solid red;
+    
 }
 
 .half-width img{
-    /* max-width: 100%;
-    max-height: 100%;  */
+
     width: 50%;
+    
     
 }
 
 .color-border{
-border-left: 3px solid red;
+
 padding-left: 5px;
 }
 
@@ -36,4 +37,98 @@ padding-left: 5px;
     background-color: cyan;
     padding: 10px 37px;
     border-radius: 5px;
+}
+
+
+.Mission-vision-class{
+    display: flex;
+    
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    column-gap: 20px
+    
+    
+}
+
+.My-Mission-text{
+    width: 80%;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.mivicl{
+    border-radius: 10px;
+    width: 25%;
+    
+}
+
+.mivicl img{
+    width: 30%;
+}
+
+.mivicl{
+    padding: 10px;
+}
+
+#mission-bg-color{
+    background-color: lightblue;
+}
+
+#vision-bg-color{
+    background-color: lightgoldenrodyellow;
+}
+
+#goal-bg-color{
+    background-color: linen;
+}
+
+.document-sec{
+    margin-top: 100px;
+    display: flex;
+    width: 80%;
+    margin: auto;
+    column-gap: 30px;
+    padding: 10px;
+  
+}
+
+.document-sec img{
+    width: 100%;
+}
+
+.align{
+    width: 30%;
+}
+
+.align2{
+    width: 60%;
+}
+
+.develop-text{
+    font-size: 40px;
+}
+
+.global-part{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    column-gap: 60px;
+    padding: 20px;
+}
+
+.align img{
+    width: 100%;
+}
+
+.global-div2 img{
+    width: 50%;
+}
+
+.footer1{
+    background-color:black ;
+    color: white;
+    text-align: center;
+    height: 150px;
 }
