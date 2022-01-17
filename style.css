@@ -1,14 +1,39 @@
-
-
 .mission-2022{
     display: flex;
-    height: 300px;
+    border: 2px solid black;
+    margin-bottom: 50px;  
+    width: 95%;
+    margin: auto;
+    margin-top: 50px;
 }
 
 .half-width{
     width: 50%;
+    padding-left: 15px;
+    border: 2px solid red;
 }
 
 .half-width img{
-    width: 100%;
+    /* max-width: 100%;
+    max-height: 100%;  */
+    width: 50%;
+    
+}
+
+.color-border{
+border-left: 3px solid red;
+padding-left: 5px;
+}
+
+.mission-color{
+    color: darkturquoise;
+
+}
+
+.discover-btn{
+    text-decoration: none;
+    font-weight: bold;
+    background-color: cyan;
+    padding: 10px 37px;
+    border-radius: 5px;
 }
